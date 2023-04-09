@@ -1,0 +1,19 @@
+{
+    "folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../../../../../../../../../xampp/htdocs/toDoList"
+		},
+		{
+			"path": "../../../../../../react project"
+		},
+		{
+			"path": "../../../../../../../Downloads/00_Customer Panel-20230215T101822Z-001"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "00_Customer Panel-20230215T101822Z-001"
+    }
+}

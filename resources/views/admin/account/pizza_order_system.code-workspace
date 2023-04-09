@@ -1,0 +1,19 @@
+{
+    "folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../../../../../../../Downloads/00_Customer Panel-20230215T101822Z-001"
+		},
+		{
+			"path": "../../../../../../../Downloads/00_Admin Dashboard-20230215T101822Z-001"
+		},
+		{
+			"path": "../../../../../../../../../xampp/htdocs/toDoList"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "00_Admin Dashboard-20230215T101822Z-001"
+    }
+}
